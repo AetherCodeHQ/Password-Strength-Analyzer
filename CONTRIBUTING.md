@@ -6,7 +6,7 @@ Thank you for your interest in contributing! 🎉
 
 ### 1. Fork the Repository
 ```bash
-git clone https://github.com/Qyroxen/Password-Strength-Analyzer.git
+git clone https://github.com/AetherCodeHQ/Password-Strength-Analyzer.git
 cd Password-Strength-Analyzer
 ```
 
